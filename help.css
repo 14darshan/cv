@@ -1,0 +1,165 @@
+
+body{ margin:0;
+text-align: center;
+font-family: 'Sacramento', cursive;
+color:  #e65c00;}
+
+hr{border: dotted #e65c00;
+border-bottom: none;
+width: 6%;}
+
+p{font-size: 30px;}
+
+h1{margin-top:0;
+  font-size: 5.625rem;
+margin: 0 auto 0 auto;
+color: #e65c00;}
+
+.intro{width: 30%;
+margin: auto;
+    padding-bottom: 100px;}
+
+
+h2{font-size: 100px;
+  padding: 100px;}
+
+h3{font-size: 50px;}
+
+
+ span{font-size: 2.5rem;
+ color: #e65c00;
+margin: auto,auto,auto,auto; }
+
+
+ p
+ {
+   font-family: 'Oswald', sans-serif;
+ }
+
+
+.profile{padding-top: 100px;}
+
+.top-container{
+background-color:  #000000; }
+
+
+
+.stu{
+   text-decoration:underline:10px;
+ }
+
+.skill-row{
+  width:50%;
+margin:100px auto 100px auto;
+text-align: left;
+line-height: 2;}
+
+.code{width:25%;
+float: left;
+margin-right: 30%}
+
+.contact{width:25%;
+float: left;
+margin-right: 30%;}
+
+.contact-me{margin:40px auto 60px; }
+
+.para{clear:left;}
+
+.btn{
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#e65c00;
+	border-radius:28px;
+	border:1px solid #e65c00;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Oswald', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;}
+.btn:hover {
+	background-color:#ffffff;
+	color:#000000;}
+
+
+  .twitter{
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#e65c00;
+	border-radius:28px;
+	border:1px solid #e65c00;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Oswald', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-right: 50px;
+}
+.twitter:hover {
+	background-color:#ffffff;
+	color:#000000;}
+
+	.linkedin{
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#e65c00;
+	border-radius:28px;
+	border:1px solid #e65c00;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Oswald', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-right: 50px;
+}
+.linkedin:hover {
+	background-color:#ffffff;
+	color:#000000;}
+
+	.website{
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#e65c00;
+	border-radius:28px;
+	border:1px solid #e65c00;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Oswald', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  margin-right: 50px;
+}
+.website:hover {
+	background-color:#ffffff;
+	color:#000000;}
+
+.gif{clear: left;}
+
+
+
+.earth{ max-width: 500px;
+  height: 500px;}
+
+
+.vips{ max-width: 1000px;
+  height: 500px;}
+.bottom-container{background-color: #000000;
+padding: 50px 0 20px;}
+
+
+
+
+
+
+
+.copyright{
+  padding: 10px;
+  font-size: 1.275rem;}
